@@ -1,2 +1,7 @@
-# android-kotlin-guide-tip-calculator
+# Tip Calculator
+
 A Simple Tip Calculator application using Material Guidelines
+
+# Screenshots
+
+![Screenshot](screens/screen.jpg)
